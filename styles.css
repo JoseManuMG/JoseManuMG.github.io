@@ -1,0 +1,77 @@
+body{background-color: azure;}
+header{
+    color: white;
+    font-family: 'Arial''Times New Roman''Helvetica';
+    background-color: rgb(0, 0, 0);
+    width: 88%;
+    margin: auto;
+}
+nav{
+    width: 30%;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+}
+#titulo{text-align: center;}
+section{
+    font-family: 'Times New Roman';
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+footer{
+    width: 90%;
+    height: 100px;
+    margin: auto;
+    text-align: center;
+    background-color: aqua;
+}
+form{
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#letras{
+    font-family: 'Times New Roman';
+    font-size: 12;
+    text-align: center;
+}
+#letrassp{
+    font-family: 'Times New Roman';
+    font-size: 12;
+    text-align: center;
+    color: white;
+}
+hr{
+    background-color: white;
+    color: white;
+}
+#titulos{
+    text-align: left;
+    margin-left: 8%;
+}
+#titulossp{
+    text-align: left;
+    margin-left: 8%;
+    color: rgb(255, 255, 255);
+}
+#b10so{background-color: rgb(68, 197, 68);}
+#b10af{background-color: rgb(9, 80, 9);}
+#b10ua{background-color: darkgreen;}
+#b10ov{background-color: chartreuse;}
+#kp{background-color: rgb(0, 204, 255);}
+#amdgjklg{background-color: rgb(247, 17, 63);}
+#pyf{background-color: rgb(255, 155, 32);}
+#dmn{background-color: dodgerblue;}
+#cwd{background-color: rgb(255, 0, 170);}
+#hda{background-color: rgb(212, 164, 100);}
+#gmbll{background-color: rgb(0, 162, 255);}
+#dp{background-color: black;}
+#str{background-color: rgb(255, 251, 0);}
+#gvtfls{background-color: burlywood;}
+#towlhs{background-color: rgb(100, 65, 65);}
+#amph{background-color: rgba(56, 204, 19, 0.719);}
+#spgbsqrp{background-color: gold;}
