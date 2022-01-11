@@ -6,6 +6,7 @@ header{
     width: 88%;
     margin: auto;
 }
+video{max-width: 100%;}
 nav{
     width: 30%;
     margin: auto;
