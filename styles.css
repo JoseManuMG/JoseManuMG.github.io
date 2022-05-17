@@ -8,14 +8,20 @@ header{
 }
 video{max-width: 100%;}
 nav{
-    width: 30%;
-    margin: auto;
+    width: 100%;
+    height: auto;
     background-color: rgb(255, 255, 255);
+}
+a{
+    margin-left: 40%;
+    margin-right: 40%;
+    text-align: center;
+    font-weight: bold;
 }
 #titulo{text-align: center;}
 section{
     font-family: 'Times New Roman';
-    width: 70%;
+    width: 100%;
     margin: auto;
     text-align: center;
 }
